@@ -1,0 +1,38 @@
+/* Button:hover{
+    background-color: brown;
+    color: black;
+} */
+
+Button{
+   box-sizing: border-box;
+   border-width: 4px;
+   border-color: maroon;
+}
+
+Button.active{
+    background-color: brown;
+    color: white;
+}
+
+h2{
+    color: brown;
+}
+
+.finaldiv{
+    height:100vh;
+    width:100%
+}
+
+.div1{
+    float: left;
+    width:70%
+
+}
+.div2{
+    float: right;
+    width: 30%;
+    padding-top:"6rem"
+}
+option{
+    width: 30px;
+}

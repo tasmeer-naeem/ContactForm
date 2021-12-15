@@ -1,0 +1,60 @@
+{
+  "user": [
+    {
+      "name": "hales ",
+      "address": "london",
+      "email": "ales@gmail.com",
+      "contact": "1234567",
+      "id": 2
+    },
+    {
+      "name": "tasmeer",
+      "email": "tasmeer@gmail.com",
+      "contact": "123456789",
+      "address": "karachi",
+      "id": 5
+    },
+    {
+      "name": "james bond",
+      "email": "james@mail.com",
+      "contact": "656547748",
+      "address": "uk",
+      "id": 6
+    },
+    {
+      "name": "rosee",
+      "email": "rose@gmail.com",
+      "contact": "7363838939",
+      "address": "us",
+      "id": 7
+    },
+    {
+      "name": "name",
+      "email": "email",
+      "contact": "contact",
+      "address": "address",
+      "id": 8
+    },
+    {
+      "name": "hello",
+      "email": "hello",
+      "contact": "hello",
+      "address": "hello",
+      "id": 9
+    },
+    {
+      "name": "hales",
+      "email": "hales@gmail.com",
+      "contact": "6544777777",
+      "address": "london",
+      "id": 10
+    },
+    {
+      "name": "nameee",
+      "email": "nameee",
+      "contact": "nameee",
+      "address": "nameee",
+      "id": 11
+    }
+  ]
+}
